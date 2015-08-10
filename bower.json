@@ -1,0 +1,6 @@
+{
+  "name": "Html bolilerplate",
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
